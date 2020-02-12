@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## yet unreleased
+
+CHANGED
+
+- updated support for travis CI
+- limited support for mail-dependency to exactly 2.5.5 (not newer)
+- fixed links and badges
+
+
 ## 3.0.2  --  2020-02-12
 
 CHANGED

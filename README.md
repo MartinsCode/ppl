@@ -4,7 +4,7 @@
     |__|   |__|   |_____|
 
 
-[ppl](http://ppladdressbook.org) aims to be address book software for
+ppl aims to be address book software for
 command-line users. It's pronounced like "people". You might be interested in
 ppl if:
 
@@ -12,8 +12,9 @@ ppl if:
 * You want ownership of your address book data back from the cloud
 * You prefer to keep your data stored in an open format
 
-[![Build Status](https://travis-ci.org/ppladdressbook/ppl.svg?branch=2.3.3)](https://travis-ci.org/ppladdressbook/ppl)
-[![Code Climate](https://codeclimate.com/github/ppladdressbook/ppl/badges/gpa.svg)](https://codeclimate.com/github/ppladdressbook/ppl)
+[![Build Status](https://travis-ci.com/MartinsCode/ppl.svg?branch=master)](https://travis-ci.com/MartinsCode/ppl)
+[![Maintainability](https://api.codeclimate.com/v1/badges/470a5404b93077a6464e/maintainability)](https://codeclimate.com/github/MartinsCode/ppl/maintainability)
+
 
 Installation
 ------------
@@ -77,7 +78,7 @@ Contributing
 Bug reports, fixes, and additional features are encouraged. The project uses
 [Github issues](https://github.com/hnrysmth/ppl/issues) to track bug reports.
 
-Everyone interacting in ppl’s codebases, issue trackers etc is expected to follow the [code of conduct](https://github.com/ppladdressbook/ppl/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in ppl’s codebases, issue trackers etc is expected to follow the [code of conduct](https://github.com/MartinsCode/ppl/blob/master/CODE_OF_CONDUCT.md).
 
 License
 -------

@@ -30,5 +30,5 @@ Gem::Specification.new do |spec|
 
   spec.files        = `git ls-files`.split("\n")
   spec.require_path = 'lib'
-  spec.homepage     = 'http://ppladdressbook.org'
+  spec.homepage     = 'https://github.com/MartinsCode/ppl/'
 end
