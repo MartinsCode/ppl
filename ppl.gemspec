@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
 
   spec.summary     = 'The command line address book'
   spec.description = 'ppl is a command-line address book using vCard & git for storage and synchronisation'
-  spec.license     = 'GPL-2'
+  spec.license     = 'MIT'
 
   spec.add_dependency('colored', '1.2')
   spec.add_dependency('inifile', '2.0.2')
