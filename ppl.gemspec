@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name        = 'ppl'
-  spec.version     = '3.0.1'
+  spec.version     = '3.0.2'
   spec.date        = '2018-01-03'
 
   spec.required_ruby_version = '>= 2.4.9' # no security maintenance before that
