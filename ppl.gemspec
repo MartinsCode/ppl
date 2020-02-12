@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency('colored', '1.2')
   spec.add_dependency('inifile', '2.0.2')
-  spec.add_dependency('mail', '>= 2.5.5', '< 2.7.0')
+  spec.add_dependency('mail', '2.5.5')
   spec.add_dependency('morphine', '0.1.1')
   spec.add_dependency('rugged', '~> 0.28.0')
   spec.add_dependency('vpim', '13.11.11')
