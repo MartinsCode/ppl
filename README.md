@@ -23,6 +23,22 @@ Installation
 $ sudo gem install ppl
 ```
 
+
+Configuration
+-------------
+
+ppl is configured via config-file. It is checked for in 
+- current directory as .pplconfig
+- user home directory as .pplconfig
+- XDG-Path (~/.config/ppl/config by default)
+
+### Example:
+```
+[address book]
+path="/home/ab/.contacts"
+```
+
+
 Usage
 -----
 
