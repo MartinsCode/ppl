@@ -86,6 +86,15 @@ Bug reports, fixes, and additional features are encouraged. The project uses
 
 Everyone interacting in ppl’s codebases, issue trackers etc is expected to follow the [code of conduct](https://github.com/MartinsCode/ppl/blob/master/CODE_OF_CONDUCT.md).
 
+Contributors
+------------
+
+- [Henry Smith](https://github.com/hencatsmith/) (who did the very most of the work)
+- [Andrew Sullivan Cant](https://github.com/acant/)
+- [Peter Hogg](https://github.com/pigmonkey/)
+- [drewbug](https://github.com/drewbug/)
+- [Hugo Osvaldo Barrera](https://github.com/WhyNotHugo/)
+
 License
 -------
 
