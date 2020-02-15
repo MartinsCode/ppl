@@ -91,8 +91,6 @@ $ ppl bday john 1980-01-01
 Known Issues
 ------------
 
-- cucumber needs empty ~/.pplconfig, otherwise your pplconfig gets clobbered
-  and cucumber fails with strange errors
 
 Contributing
 ------------
