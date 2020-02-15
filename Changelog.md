@@ -5,6 +5,8 @@
 ADDED
 
 - simplecov
+- Contributors to README.md
+- support for config file in current directory
 
 CHANGED
 
