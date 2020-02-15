@@ -2,11 +2,18 @@
 
 ## yet unreleased
 
+ADDED
+
+- simplecov
+
 CHANGED
 
 - updated support for travis CI
 - limited support for mail-dependency to exactly 2.5.5 (not newer)
 - fixed links and badges
+- upgrade gem mail to 2.7.1
+- upgrate gem inifile to 3.0.0
+- add simplecov
 
 
 ## 3.0.2  --  2020-02-12
